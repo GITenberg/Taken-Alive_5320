@@ -1,0 +1,34 @@
+_repo: Taken-Alive_5320
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roe, Edward Payson
+    alias: Roe, E. P. (Edward Payson)
+    birthdate: 1838
+    deathdate: 1888
+    gutenberg_agent_id: '858'
+    url: http://www.gutenberg.org/2009/agents/858
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Payson_Roe
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Roe, Edward Payson, 1838-1888'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Didactic fiction'
+- GITenberg
+tableOfContents: '"A native author called Roe" -- Taken alive -- Found yet lost --Queen
+  of spades -- An unexpected result -- A Christmas-eve suit -- Three Thanksgiving
+  kisses -- Susie Rolliffe''s Christmas -- Jeff''s treasure -- Caught on the ebb-tide
+  -- Christmas eve in war times -- A brave little Quakeress.'
+title: Taken Alive
+url: http://www.gutenberg.org/ebooks/5320
